@@ -1,0 +1,8 @@
+# Ignorer tout le contenu de backup
+/backup/
+
+# Ignorer tous les pdfs
+*.pdf
+
+#.gitignore
+
