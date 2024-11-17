@@ -4,5 +4,4 @@
 # Ignorer tous les pdfs
 *.pdf
 
-#.gitignore
-
+.gitignore
